@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mirko Roßbach, the coder behind @mrcodesuit.
+- 👀 I’m interested in coding ;)
+- 🌱 I’m currently learning react-native, next.js and strapi.io.
